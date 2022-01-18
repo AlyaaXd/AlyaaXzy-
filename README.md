@@ -30,7 +30,7 @@ ___
 </p>
 
 ___
-<a href="https://youtu.be/S0UaWdAbfT8"><img src="https://img.shields.io/badge/YouTube-YT AlyaaXzy ?-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=" /><br>
+<a href="https://youtube.com/channel/UCDUyjUl51tp01m65XPie_MA"><img src="https://img.shields.io/badge/YouTube-YT AlyaaXzy ?-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=" /><br>
 <a href=""><img src="https://img.shields.io/youtube/channel/subscribers/UCw78OZWMeMYjMdOP1oYv6XA?style=social" /> <br>
 </p>
 
